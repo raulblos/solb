@@ -1,4 +1,4 @@
-#EXTM3U url-tpg="https://static.mediatech.by/epg.xml Источник: https://gogosmart.pro/pt/texnologii/iptv/electronic-program-guide-2022-2023.html"
+#EXTM3U url-tpg="https://static.mediatech.by/epg.xml"
 #EXTINF:-1 group-title="Canais | ESPN" tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ,ESPN FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/210
 #EXTINF:-1 group-title="Canais | ESPN" tvg-id="Espnbrasil.br" tvg-name="ESPN FHDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ,ESPN FHDÂ²
