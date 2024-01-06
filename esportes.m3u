@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://static.mediatech.by/epg.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml"
 #EXTINF:-1 group-title="Canais | ESPN" tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ,ESPN FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/210
 #EXTINF:-1 group-title="Canais | ESPN" tvg-id="Espnbrasil.br" tvg-name="ESPN FHDÂ²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" ,ESPN FHDÂ²
@@ -232,4 +232,3 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233916
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233917
 #EXTINF:-1 group-title="Canais | Pay-per-view" tvg-id="Onefootball.br" tvg-name="OneFootball2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ONEFOOTBALL.png" ,OneFootball2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/233918
-
