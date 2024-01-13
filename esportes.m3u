@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_BR.xml"
 #EXTINF:-1 group-title="Canais | Premiere" tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" ,Premiere Clubes FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/494
 #EXTINF:-1 group-title="Canais | Premiere" tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" ,Premiere Clubes HD
